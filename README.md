@@ -24,3 +24,5 @@ The sentiment will be determined using the following steps:
 
 ##Tools/Libs Used  
 This code is written in Python and relies heavily on the Pandas library.
+
+###For now there is no way to run all scripts at once, each one must be run individually and in order. This will be fixed with a coming update, as is having to manually enter the company name and symbol
