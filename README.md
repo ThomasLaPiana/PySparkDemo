@@ -20,7 +20,9 @@ The sentiment will be determined using the following steps:
 1. Tokenize the body of the article/tweet  
 2. Match it with the same word in the sentiment lexicon  
 3. Multiply the polarity (either Positive or Negative, represented as +1 or -1) by the strength of the sentiment (either .5 or 1, depending on if it has 'weak' or 'strong' sentiment)
-4. Divide that number by the number of tokens in the body of the paragraph
+4. Divide that number by the number of tokens in the body of the paragraph  
+
+###Model/Algorithm Methodology will be added at a later date, once it has been implemented
 
 ##Tools/Libs Used  
 This code is written in Python and relies heavily on the Pandas library.
